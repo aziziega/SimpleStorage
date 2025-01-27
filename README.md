@@ -7,8 +7,7 @@ Repositori ini berisi smart contract Solidity yang saya gunakan untuk belajar da
 #### Deploy:
 - **Sepolia Test net**
   - Sudah Coba Deploy Di Test net ini
-  - Contoh deploy sekaligus sudah verify contract
-  - Etherscan
+  - Cek [Sepolia.Ether.Scan](https://sepolia.etherscan.io/address/0x35c884a8eefa2d865a64062ccf5c3303a79b9bc5)
 
 ### 1. SimpleStorage.sol
 Kontrak ini adalah contoh dasar untuk memahami penyimpanan dan manajemen data di Bahasa Pemrograman Solidity. Beberapa hal yang saya pelajari seperti Fitur-fitur yang termasuk di dalamnya:

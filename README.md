@@ -1,11 +1,17 @@
-# Perkembangan Belajar Solidity
+# Tracking Progress
 
-Repositori ini berisi smart contract Solidity yang saya gunakan untuk belajar dan bereksperimen dengan pengembangan blockchain. Berikut adalah rincian kontrak yang disediakan beserta tujuan pembelajarannya.
+Repositori ini berisi smart contract Solidity yang saya gunakan untuk belajar dan bereksperimen dengan pengembangan blockchain. saya belajar melalui Cyfrin.io, masih menggunakan Remix - Ethereum IDE.
 
 ## Smart Contract
 
+#### Deploy:
+- **Sepolia Test net**
+  - Sudah Coba Deploy Di Test net ini
+  - Contoh deploy sekaligus sudah verify contract
+  - Etherscan
+
 ### 1. SimpleStorage.sol
-Kontrak ini adalah contoh dasar untuk memahami penyimpanan dan manajemen data di Solidity. Fitur-fitur yang termasuk di dalamnya:
+Kontrak ini adalah contoh dasar untuk memahami penyimpanan dan manajemen data di Bahasa Pemrograman Solidity. Beberapa hal yang saya pelajari seperti Fitur-fitur yang termasuk di dalamnya:
 
 #### Fitur:
 - **Variabel State:**
@@ -22,7 +28,6 @@ Kontrak ini adalah contoh dasar untuk memahami penyimpanan dan manajemen data di
 - Memahami tipe data dasar (`uint256`, `string`, `struct`, dll.).
 - Menerapkan array dinamis dan mapping.
 - Menulis fungsi publik dan fungsi view.
-- Menyusun dan menyimpan data di Ethereum Virtual Machine (EVM).
 
 ---
 
@@ -71,10 +76,7 @@ Kontrak ini berfungsi sebagai tempat uji coba untuk memodifikasi atau menambahka
 ---
 
 ## Langkah Berikutnya
-- Menambahkan fungsionalitas spesifik untuk operasi matematis pada `AddFiveStorage`.
-- Mengeksplorasi solusi Layer 2 untuk deployment yang lebih efisien.
-- Mendalami topik seperti optimasi gas, praktik keamanan terbaik, dan fitur lanjutan seperti modifier dan inheritance.
+- 
 
 ---
 
-Silakan kontribusi atau sampaikan saran perbaikan saat saya melanjutkan perjalanan belajar ini!
